@@ -14,6 +14,23 @@ Este repositório contém arquivos e exemplos de manutenção técnica realizada
 
 [Acessar site oficial](https://www.draednajaguaribe.com.br)
 
+## 🖼️ Funcionalidades Visuais
+
+### Página Inicial
+![Página Inicial](assets/home.png)
+
+### Página de Resultados de Exames
+![Resultados](assets/exames.png)
+
+### Página de convenios
+![Convenios](assets/convenios.png)
+
+### Página de unidades
+![Unidades](assets/unidades.png)
+
+### Rodapé
+![Rodapé](assets/rodapé.png)
+
 ## 🧑‍💻 Responsável pelas atualizações
 
 Gustavo Santos  
