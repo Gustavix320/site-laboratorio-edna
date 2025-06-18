@@ -17,7 +17,7 @@ Este repositório contém arquivos e exemplos de manutenção técnica realizada
 ## 🖼️ Funcionalidades Visuais
 
 ### Página Inicial
-![Página Inicial](assets/home.png)
+![Página Inicial](assets/Home.png)
 
 ### Página de Resultados de Exames
 ![Resultados](assets/exames.png)
